@@ -26,6 +26,7 @@ public class TestAccountRegistration {
 	@AfterClass
 	void tearDown() {
 		driver.close();
+		//new line added just to check
 	}
 	
 	@Test
